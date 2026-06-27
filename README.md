@@ -1,7 +1,7 @@
-# 👨‍💻 Hi, I'm Emman
+# <p align="center">👨‍💻 Hi, I'm Emman</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Software+Engineer;Machine+Learning+Engineer;Backend+Developer;Linux+Nerd;HPC+Enthusiast;Open+Source+Builder"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Emman+%F0%9F%91%8B;Curious+Engineer;Linux+Nerd;HPC+Enthusiast;Open+Source+Builder;Always+Learning..."/>
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ```bash
 Name: Emmanuel Sivhuwana
 GitHub: Emmanxy
-Role: Software Engineer / ML Engineer
+Role: Curious Engineer
 Location: Limpopo, South Africa 🇿🇦
 
 Education:
@@ -43,12 +43,13 @@ emmanuel@linux:~$ neofetch
    \___)=(___/
 
 OS: Ubuntu 24.04 LTS
-Kernel: Linux
+Kernel: Linux 6.8
 Shell: zsh
 Editor: VS Code
 Languages: Python | Java | C | Rust
 Focus: AI | HPC | Backend Systems
-Status: Building cool things at 2AM ☕
+Uptime: Too long ☕
+Status: [ COMPILING LIFE... ]
 ```
 
 ---
@@ -77,12 +78,11 @@ Status: Building cool things at 2AM ☕
 
 ---
 
-## 🚀 Current Projects
+## 🐍 Contribution Snake
 
-```txt
-[███████████████░░░░░]  AI Welding Assistant        95%
-[███████████████████░]  HPC Cluster Dashboard       100%
-```
+<p align="center">
+  <img src="https://github.com/Emmanxy/Emmanxy/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
