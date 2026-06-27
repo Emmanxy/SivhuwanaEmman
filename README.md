@@ -60,31 +60,7 @@ Status: [ COMPILING LIFE... ]
   <img src="https://skillicons.dev/icons?i=python,java,c,rust,linux,docker,flask,git,github,vscode,sqlite,nginx"/>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanxy&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanxy&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Emmanxy&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Emmanxy/Emmanxy/blob/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
 
 ## 💬 Quote
 
